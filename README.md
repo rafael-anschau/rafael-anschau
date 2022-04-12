@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @rafael-anschau
-- 👀 I’m interested in solving complex and interesting problems.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on solutions to problems that can not be solved by analogy(at least not completely) and require the invention of a
-previously unknown solution(at least partially). 
+- 👀 Welcome. Here you will find my solutions to problems I have found interesting.
+- 🌱 They are ICPC problems from the book "Programming Challenges" by Steven Skiena
  
   
 
 - 📫 How to reach me ...
+- rafael.anschau@acm.org
+- https://www.linkedin.com/in/rafael-anschau-6037357/
 
 <!---
 rafael-anschau/rafael-anschau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
